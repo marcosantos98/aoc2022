@@ -11,6 +11,7 @@ import java.util.List;
 public class DayOne {
 
     public static void main(String[] args) throws IOException {
+        System.out.println("-> DayOne");
         var values = parseInput();
         problemOne(values);
         problemTwo(values);
