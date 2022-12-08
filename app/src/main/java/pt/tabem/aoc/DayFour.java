@@ -50,7 +50,7 @@ public class DayFour {
             }
         }
 
-        System.out.printf("Number of overlaped sections: %d\n", overlapCount);
+        System.out.printf("Number of overlaped sections part2: %d\n", overlapCount);
     }
 
     public record SectionsInfo(int startA, int endA, int startB, int endB) {
