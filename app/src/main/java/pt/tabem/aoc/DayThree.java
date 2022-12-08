@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class DayThree {
-    public static void main(String[] args) throws IOException {
+    public static void main() throws IOException {
         System.out.println("-> DayThree");
         var rucksacks = parseInput();
         problemOne(rucksacks);

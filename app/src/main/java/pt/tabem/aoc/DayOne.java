@@ -10,7 +10,7 @@ import java.util.List;
 
 public class DayOne {
 
-    public static void main(String[] args) throws IOException {
+    public static void main() throws IOException {
         System.out.println("-> DayOne");
         var values = parseInput();
         problemOne(values);

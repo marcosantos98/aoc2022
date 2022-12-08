@@ -6,7 +6,7 @@ import java.util.List;
 
 public class DayFour {
 
-    public static void main(String[] args) throws IOException {
+    public static void main() throws IOException {
         System.out.println("-> DayFour");
         var sections = parseInput();
         problemOne(sections);

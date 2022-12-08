@@ -10,7 +10,7 @@ import java.util.Map;
 
 public class DayFive {
 
-    public static void main(String[] args) throws IOException {
+    public static void main() throws IOException {
         System.out.println("-> DayFive");
         problemOne();
         problemTwo();
