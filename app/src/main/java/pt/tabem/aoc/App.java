@@ -6,5 +6,6 @@ public class App {
         DayTwo.main(args);
         DayThree.main(args);
         DayFour.main(args);
+        DayFive.main(args);
     }
 }
