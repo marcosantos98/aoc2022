@@ -7,6 +7,7 @@ public class App {
         timed(DayThree::main);
         timed(DayFour::main);
         timed(DayFive::main);
+        timed(DaySix::main);
     }
 
     private static void timed(ExFunc block) throws Exception {
